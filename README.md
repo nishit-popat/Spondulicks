@@ -6,7 +6,7 @@ This bot can be used to trade in cryptocurrency with Two types Of Strategies.
 
 This bot is supported for Binance and Bitmex Exchange.
 To run this bot do following steps:
-1) Clone This repository into Computer.
+1) Clone This repository into your machine.
 2) Open The folder and create config.py file.
 3) In that add API key and API Secret Key from Binance And Bitmex Exchange.
 4) Add that variables in main.py where object of Binance and Bitmex is instantiated.
